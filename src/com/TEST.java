@@ -8,6 +8,8 @@ public class TEST {
 		System.out.println("TEST CASE 1");
 		
 		System.out.println("USER Story - 65656567");
+		
+		System.out.println("TEST CASE 2");
 
 	}
 
